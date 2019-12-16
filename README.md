@@ -21,11 +21,11 @@ Tugas Akhir Digital Signal Proccesing
 2. Accelerometer
 
 ## MatLab Function
-- sqrt()    >Fungsi Pengakaran
-- sum()     >Fungsi Penjumlahan 
-- fft()     >Fast Fourier Transform
-- abs()     >Absolute
-- length()  >Panjang data
+- sqrt()
+- sum()     
+- fft()     
+- abs()     
+- length()  
 - detrend()
 - filtfilt()
 - subplot()
