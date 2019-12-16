@@ -19,3 +19,16 @@ Tugas Akhir Digital Signal Proccesing
 ## Requirement
 1. MatLab
 2. Accelerometer
+
+## MatLab Function
+- sqrt()    >Fungsi Pengakaran
+- sum()     >Fungsi Penjumlahan 
+- fft()     >Fast Fourier Transform
+- abs()     >Absolute
+- length()  >Panjang data
+- detrend()
+- filtfilt()
+- subplot()
+- plot()
+- findpeaks()
+- fdatool
