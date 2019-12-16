@@ -13,3 +13,9 @@ Tugas Akhir Digital Signal Proccesing
 >10 Langkah
 >20 Langkah
 >30 Langkah
+#### Variasi
+>5 Langkah
+
+## Requirement
+1. MatLab
+2. Accelerometer
