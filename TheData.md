@@ -1,8 +1,6 @@
 ### Langkah kaki
->Andy 10 langkah,20 langkah, 30 langkah
-
->Kevin 10 langkah,20 langkah, 30 langkah
-
->Rara 10 langkah,20 langkah, 30 langkah
+1. Andy 10 langkah,20 langkah, 30 langkah
+2. Kevin 10 langkah,20 langkah, 30 langkah
+3. Rara 10 langkah,20 langkah, 30 langkah
 
 ### Variasi
